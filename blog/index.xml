@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Samir Marin</title>
+    <link>https://samirmarin.github.io/myPage/blog/index.xml</link>
+    <description>Recent content in Blogs on Samir Marin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://samirmarin.github.io/myPage/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cuba - A Land that Sparks Curiosity</title>
+      <link>https://samirmarin.github.io/myPage/blog/cuba-trip/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://samirmarin.github.io/myPage/blog/cuba-trip/</guid>
+      <description>&lt;p&gt;Coming soon!!!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

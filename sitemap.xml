@@ -28,25 +28,25 @@
   </url>
   
   <url>
-    <loc>https://samirmarin.github.io/myPage/tags/projects/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://samirmarin.github.io/myPage/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://samirmarin.github.io/myPage/tags/resume/</loc>
+    <loc>https://samirmarin.github.io/myPage/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://samirmarin.github.io/myPage/categories/resume/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samirmarin.github.io/myPage/tags/resume/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
